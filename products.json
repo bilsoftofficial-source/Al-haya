@@ -1,1 +1,20 @@
-
+[
+  {
+    "name": "Irani Chaddar (Premium)",
+    "price": "Rs. 2,500",
+    "category": "Irani Chaddar",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/bilsoftofficial-source/Al-haya@main/Category/img_001.jpg"
+  },
+  {
+    "name": "Quran Majeed",
+    "price": "Rs. 800",
+    "category": "Quran & Books",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/bilsoftofficial-source/Al-haya@main/Category/quran_img1.png"
+  },
+  {
+    "name": "Velvet Chaddar (Maroon)",
+    "price": "Rs. 3,000",
+    "category": "Irani Chaddar",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/bilsoftofficial-source/Al-haya@main/Category/img_003.jpg"
+  }
+]
